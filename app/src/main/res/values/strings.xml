@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FindFalcone</string>
+    <string name="hey_king_cannot_cover_the_distance_of">Hey King! %s cannot cover the distance of %s.</string>
+    <string name="king_we_cannot_send_more_than_4_vehicles">King! We cannot send more than 4 vehicles.</string>
+    <string name="king_we_cannot_send_this_ship_to_planet">King! We cannot send %s to %s.</string>
+    <string name="king_we_found_the_queen_of_falicornia_she_is_hiding_in_planet">King! we found the Queen of Falicornia. \n Time taken : %d \n Planet found : %s</string>
+    <string name="king_we_regret_to_inform_you_that_we_failed_to_find_the_queen">King! We regret to inform you that, we failed to find the Queen.</string>
+    <string name="please_wait_while_we_are_finding_the_queen">Please Wait while we are finding the Queen...</string>
+    <string name="no_internet_please_check_your_network_and_try_again">No Internet! \n Please check your network and try again.</string>
+    <string name="start_mission">Start Mission</string>
+    <string name="str_time">Time : %d</string>
+    <string name="select_planets_you_want_to_search_in">Select planets you want to search in :</string>
+    <string name="cancel">Cancel</string>
+    <string name="terminate">Terminate</string>
+    <string name="start_again">Start again</string>
+    <string name="please_select_4_vehicles">Please select 4 vehicles</string>
+</resources>
